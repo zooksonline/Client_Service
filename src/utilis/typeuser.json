@@ -1,0 +1,6 @@
+[
+    { "type": "STAFF", "name": "เจ้าหน้าที่" },
+    { "type": "STUDENT", "name": "นิสิต" },
+    { "type": "PROFESSOR", "name": "อาจารย์" }
+  ]
+  

@@ -1,0 +1,22 @@
+[
+    {
+        "status": "WAITING",
+        "name": "รอกรรมการตรวจสอบ"
+    },
+    {
+        "status": "WAITINGADMIN",
+        "name": "รอฝ่ายวิจัยตรวจสอบ"
+    },
+    {
+        "status": "EDIT",
+        "name": "แก้ไขรายละเอียด"
+    },
+    {
+        "status": "REJECT",
+        "name": "ยกเลิก"
+    },
+    {
+        "status": "APPROVED",
+        "name": "ผ่านการตรวจสอบ"
+    }
+]

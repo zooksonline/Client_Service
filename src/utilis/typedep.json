@@ -1,0 +1,44 @@
+[
+    { "currentNameTH": "ภาควิชาชีววิทยา", "currentNameEN": "Biology" },
+    {
+      "currentNameTH": "ภาควิชาเคมี",
+      "currentNameEN": "Chemistry"
+    },
+    {
+      "currentNameTH": "ภาควิชาวิทยาการคอมพิวเตอร์",
+      "currentNameEN": "Computer Science"
+    },
+    {
+      "currentNameTH": "ภาควิชาวิทยาศาสตร์ทั่วไป",
+      "currentNameEN": "General Science"
+    },
+    {
+      "currentNameTH": "ภาควิชาคหกรรมศาสตร์",
+      "currentNameEN": "Home Economics"
+    },
+    {
+      "currentNameTH": "ภาควิชาวัสดุศาสตร์",
+      "currentNameEN": "Materials"
+    },
+    {
+      "currentNameTH": "ภาควิชาคณิตศาสตร์",
+      "currentNameEN": "Mathemetics"
+    },
+    {
+      "currentNameTH": "ภาควิชาจุลชีววิทยา",
+      "currentNameEN": "Microbiology"
+    },
+    {
+      "currentNameTH": "ภาควิชาฟิสิกส์",
+      "currentNameEN": "Physics"
+    },
+    {
+      "currentNameTH": "ศูนย์วิทยาศาสตรศึกษา",
+      "currentNameEN": "Science Education Center"
+    },
+    {
+      "currentNameTH": "สำนักงานคณบดี",
+      "currentNameEN": "Dean's Office"
+    }
+  ]
+  

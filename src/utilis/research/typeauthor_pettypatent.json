@@ -1,0 +1,6 @@
+[
+  { "authorKey": "AUTHOR", "author": "ผู้ยื่นขอจดอนุสิทธิบัตร" },
+  { "authorKey": "CO-AUTHOR", "author": "ผู้ร่วมขอจดอนุสิทธิบัตร" },
+  { "authorKey": "FIRST-AUTHOR", "author": "" },
+  { "authorKey": "FIRST-AUTHOR-AND-AUTHOR", "author": "" }
+]

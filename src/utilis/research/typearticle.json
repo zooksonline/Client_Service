@@ -1,0 +1,7 @@
+[
+  { "articleKey": "CONFERENCE", "article": "ประชุมวิชาการ (Full paper)" },
+  { "articleKey": "JOURNAL", "article": "วารสาร" },
+  { "articleKey": "PETTY-PATENT", "article": "อนุสิทธิบัตร" },
+  { "articleKey": "PATENT", "article": "สิทธิบัตร" },
+  { "articleKey": "COPYRIGHT", "article": "ลิขสิทธิ์" }
+]

@@ -1,0 +1,9 @@
+// AUTH AND REGISTER
+export const QA_AUTH_SUCCESS = "QA_AUTH_SUCCESS";
+export const QA_AUTH_FAIL = "QA_AUTH_FAIL";
+export const QA_REGISTER_SUCCESS = "QA_REGISTER_SUCCESS";
+export const QA_REGISTER_FAIL = "QA_REGISTER_FAIL";
+
+// LOAD DATA
+export const QA_LOADING = "QA_LOADING";
+export const QA_LOADED = "QA_LOADED";

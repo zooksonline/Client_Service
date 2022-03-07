@@ -1,0 +1,91 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "main": "./src/index.js",
+  "private": true,
+  "dependencies": {
+    "@babel/plugin-syntax-jsx": "^7.12.13",
+    "@babel/plugin-transform-react-jsx": "^7.12.17",
+    "@babel/preset-env": "^7.13.10",
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-solid-svg-icons": "^5.13.1",
+    "@fortawesome/react-fontawesome": "^0.1.13",
+    "@testing-library/user-event": "^12.2.2",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "datatables.net-dt": "^1.10.22",
+    "dateformat": "^4.6.3",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "jsonwebtoken": "^8.5.1",
+    "moment-timezone": "^0.5.33",
+    "node-sass": "^6.0.1",
+    "react": "^17.0.1",
+    "react-calendar": "^3.4.0",
+    "react-cookie-consent": "^6.2.1",
+    "react-country-region-selector": "^3.1.0",
+    "react-csv": "^2.0.3",
+    "react-datetime-picker": "^3.3.0",
+    "react-dnd": "^7.6.2",
+    "react-dnd-html5-backend": "^7.6.2",
+    "react-dom": "^17.0.1",
+    "react-error-boundary": "^3.1.1",
+    "react-fade-in": "^1.1.1",
+    "react-fontawesome": "^1.7.1",
+    "react-hook-form": "^6.13.1",
+    "react-input-tags-hooks": "0.0.2",
+    "react-json-to-csv": "^1.0.4",
+    "react-loading-overlay": "^1.0.1",
+    "react-lottie": "^1.2.3",
+    "react-lottie-player": "^1.1.1",
+    "react-moment": "^1.1.1",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.4",
+    "react-table": "^7.6.2",
+    "react-tag-autocomplete": "^6.1.0",
+    "react-tag-input": "^6.5.2",
+    "react-test-renderer": "^17.0.2",
+    "reactstrap": "^8.7.1",
+    "redux": "^4.0.5",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.3.0",
+    "update": "^0.7.4",
+    "uuid": "^8.3.1",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "export PORT=3321 && react-scripts start",
+    "mac": "export PORT=3321 && react-scripts start",
+    "committe_test": "export PORT=3003 && react-scripts start",
+    "win": "set PORT=3321 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.12.13",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.6.3"
+  }
+}

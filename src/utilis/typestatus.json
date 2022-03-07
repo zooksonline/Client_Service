@@ -1,0 +1,8 @@
+[
+    { "status": "WAITING", "name": "รอรับเรื่อง" },
+    { "status": "RECEIVED", "name": "รับเรื่องแล้ว รอพิจารณา" },
+    { "status": "CONSIDERING", "name": "กำลังพิจารณา" },
+    { "status": "EDIT", "name": "ต้องการข้อมูลเพิ่มเติม รอข้อมูลจากผู้แจ้ง" },
+    { "status": "APPROVED", "name": "เสร็จสิ้นการพิจารณา" }
+  ]
+  

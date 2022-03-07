@@ -1,0 +1,8 @@
+[
+  { "type": "BUILDING", "name": "อาคารและสถานที่" },
+  { "type": "LEARNING", "name": "การเรียนการสอน" },
+  { "type": "ACTIVITY", "name": "กิจกรรม" },
+  { "type": "SERVICES", "name": "การบริการ" },
+  { "type": "ETHICAL", "name": "จริยธรรม/จรรยาบรรณ" },
+  { "type": "OTHER", "name": "อื่น ๆ" }
+]

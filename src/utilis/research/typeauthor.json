@@ -1,0 +1,6 @@
+[
+  { "authorKey": "AUTHOR", "author": "ผู้นิพนธ์หลัก (Corresponding Author)" },
+  { "authorKey": "CO-AUTHOR", "author": "ผู้นิพนธ์ร่วม (Co-Author)" },
+  { "authorKey": "FIRST-AUTHOR", "author": "ผู้นิพนธ์ชื่อแรก (First Author)" },
+  { "authorKey": "FIRST-AUTHOR-AND-AUTHOR", "author": "ผู้นิพนธ์ชื่อแรก (First Author) & ผู้นิพนธ์หลัก (Corresponding Author)" }
+]

@@ -1,0 +1,5 @@
+[
+    {"levelKey":"OCSC","level":"อยู่ในเกณฑ์"},
+    {"levelKey":"NON-OCSC","level":"ไม่อยู่ในเกณฑ์"},
+    {"levelKey":"TCI","level":"TCI"}
+]
